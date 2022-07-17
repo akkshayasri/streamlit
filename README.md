@@ -1,2 +1,4 @@
 # streamlit
-streamlit deployment
+streamlit deployment. You can check out the project output here.
+https://mystreamlit1.herokuapp.com/ 
+This project was implemented in an attempt to predict the weather conditions at some future time. The parameters here in this dataset covers almost all the measurable factors that affect the weather and the temperature. Here, the maximum and minimum temperature are the main parameters of the dataset for the weather analysis. The data is collected from the Global Historical Climatology Network(GCHN) which helps in predicting the temperature values of a particular region. The data are pre-processed and we have built three machine learning algorithms such as *Support Vector Regression, Decision Tree Regression and Random Forest Regression* to see which model fits the best to our weather dataset. After building the models as a web application using streamlit , we have deployed them in the Heroku server.
